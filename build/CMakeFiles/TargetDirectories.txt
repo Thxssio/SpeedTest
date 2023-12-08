@@ -1,0 +1,3 @@
+/home/thxssio/projects/CPP/build/CMakeFiles/rebuild_cache.dir
+/home/thxssio/projects/CPP/build/CMakeFiles/edit_cache.dir
+/home/thxssio/projects/CPP/build/CMakeFiles/QRCodeDetect.dir
